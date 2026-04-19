@@ -43,20 +43,22 @@ Eliminar estudiantes
 Validación de campos
 Validación de correo único
 
+## 📊 Evidencias del proyecto
+
 ### ✔ Ejecución exitosa
-![Ejecución exitosa](docs/ejecucion_exitosa.PNG)
+![Ejecución exitosa](./docs/ejecucion_exitosa.PNG)
 
 ### ✔ Crear 3 estudiantes
-![Crear estudiantes](docs/crear_3_estudiantes.PNG)
+![Crear 3 estudiantes](./docs/crear_3_estudiantes.PNG)
 
 ### ✔ Estudiante editado
-![Estudiante editado](docs/estudiante_editado.PNG)
+![Estudiante editado](./docs/estudiante_editado.PNG)
 
 ### ✔ Estudiante eliminado
-![Estudiante eliminado](docs/estudiante_eliminado.PNG)
+![Estudiante eliminado](./docs/estudiante_eliminado.PNG)
 
-### ✔ Eliminación en lista
-![Eliminar estudiante](docs/eliminar_estudiante.PNG)
+### ✔ Eliminar estudiante
+![Eliminar estudiante](./docs/eliminar_estudiante.PNG)
 
 📌 Commits realizados
 Configuración BD
